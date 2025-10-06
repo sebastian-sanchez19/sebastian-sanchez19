@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsdWl6ZWsza2htaGE1YmQ4bjRpZzhscTh6anpjYzVrNG9pa2d2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0enZ1N3d5dzZ6eTdyeXEzbXJoMTRpamJ4NzRmc2d6eTdnM3praiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxejZGmf918N9PsUuq/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineering graduate from UNMSM. I am proficient in JavaScript, TypeScript, .NET, and Java. I’m passionate about learning and building innovative, productive, and creative software solutions that make a real impact.
 * **I am interested in Web development, Automation and Scripting, and Data Visualization**
