@@ -10,7 +10,7 @@ I am a Software Engineering graduate from UNMSM. I am proficient in JavaScript, 
   - Angular
 - 👯 Open to: collaborating on projects that create real social impact.
 - ✔ Ask me about anything — I am happy to help (as long as the ball is in my court😉)<br>
-- Outside tech, 📖 I love to watch movies, ⚽ play some football, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 🎞️ I love to watch movies, ⚽ play some football, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="jsebas02san@gmail.com">jsebas02san@gmail.com</a>
 
 ## My Skills Include
