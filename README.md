@@ -54,7 +54,7 @@ I am a Software Engineering graduate from UNMSM. I am proficient in JavaScript, 
    <i>It’s not about knowing everything — it’s about never stopping learning.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/sebastian-sanchez-montalvan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:jsebas02san@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/sebastian-sanchez-montalvan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a href="mailto:jsebas02san@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
