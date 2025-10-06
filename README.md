@@ -48,8 +48,10 @@ I am a Software Engineering graduate from UNMSM. I am proficient in JavaScript, 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<hr>
+
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>It’s not about knowing everything — it’s about never stopping learning.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
