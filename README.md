@@ -4,13 +4,14 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0enZ1N3d5dzZ6eTdyeXEzbXJoMTRpamJ4NzRmc2d6eTdnM3praiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxejZGmf918N9PsUuq/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Software Engineering graduate from UNMSM. I am proficient in JavaScript, TypeScript, .NET, and Java. I’m passionate about learning and building innovative, productive, and creative software solutions that make a real impact.
-* **I am interested in Web development, Automation and Scripting, and Data Visualization**
-- 🌱 I’m currently learning ...
-  - Angular
-- 👯 Open to: collaborating on projects that create real social impact.
-- ✔ Ask me about anything — I am happy to help (as long as the ball is in my court😉)<br>
-- Outside tech, 🎞️ I love to watch movies, ⚽ play some football, 🎵 listen to music, and 🌴 explore nature outdoors.
+I am a Software Engineering graduate from UNMSM passionate about building innovative and scalable software solutions. I focus on creating productive tools that make a real impact.
+- Tech Stack: Proficient in JavaScript, TypeScript, .NET, and Java.
+
+- Interests: Web Development, Automation & Scripting, and Data Visualization.
+- 🌱 Currently learning: Deepening my skills in Angular.
+- 👯 Looking to collaborate on: Projects driven by social impact.
+- 💬 Ask me about: Anything related to tech or development—I’m always happy to help and share knowledge!
+- ⚡ Offline: I love watching movies, playing football, listening to music, and exploring nature.
 - 📫 Reach out to me at: <a href="jsebas02san@gmail.com">jsebas02san@gmail.com</a>
 
 ## My Skills Include
